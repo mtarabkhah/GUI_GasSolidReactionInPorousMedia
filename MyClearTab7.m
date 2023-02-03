@@ -1,0 +1,1 @@
+function handle = MyClearTab7(source,event,handle)
